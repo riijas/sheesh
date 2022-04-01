@@ -1,0 +1,19 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riijas/sheesh.git"
+  },
+  "author": "rijas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riijas/sheesh/issues"
+  },
+  "homepage": "https://github.com/riijas/sheesh#readme"
+}

@@ -1,0 +1,39 @@
+
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+
+.containerr {
+    width: 95%;
+    max-width: 1160px;
+    margin: auto;
+}
+.animated-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+}
+heading {
+    color: #ffffff;
+    font-weight: 500;
+}
+span#words {
+    font-weight: bolder;
+}
+
+
+shit {
+    font-size: 10px;
+    color: #ffffff;
+    margin: 0px auto;
+    position: absolute;
+    top: 95%;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
